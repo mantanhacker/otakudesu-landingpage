@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+User-agent: dmca
+Disallow: /
+
+User-agent: copyright
+Disallow: /
+
+User-agent: spambot
+Disallow: /
+
+User-agent: Lumen
+Disallow: /
+
+User-agent: LumenDatabase
+Disallow: /
+
+User-agent: ChillingEffects
+Disallow: /
+
+User-agent: LumenBot
+Disallow: /
+
+Sitemap: https://joj0.org/sitemap.xml
